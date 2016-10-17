@@ -1,4 +1,4 @@
 <?php
-ffdddd
+ffffff
 phpinfo()
 ?>
