@@ -1,5 +1,5 @@
 <?php
-//tetst1
+//tetst1asdsad
 phpinfo()
 ?>
 ff
